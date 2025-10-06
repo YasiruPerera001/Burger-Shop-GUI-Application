@@ -1,0 +1,67 @@
+🍔 Burger Shop Application
+
+A Java Swing-based desktop application that simulates a simple Burger Shop system.
+Built with NetBeans IDE and Java Swing GUI, this project demonstrates fundamental software engineering concepts such as GUI design, event handling, object-oriented programming specially the importance of encapsulation, and user interaction.
+
+✨ Features
+
+🖥️ GUI Interface using Java Swing
+
+🍔 Add burgers
+
+🧾 Place and manage customer orders
+
+💵 Bill calculation with order summary
+
+📊 Display best customers / order history (if included)
+
+🔄 Clear / reset orders
+
+🛠️ Technologies Used
+
+Java (JDK 17 or above recommended)
+
+Swing (Java GUI framework)
+
+NetBeans IDE
+
+🚀 How to Run
+
+Clone the repository:
+
+git clone https://github.com/YasiruPerera001/BurgerShopApplication.git
+
+
+Open the project in NetBeans IDE (or any Java IDE).
+
+Build & Run the project.
+
+📸 Screenshots
+
+
+                                           
+📂 Project Structure
+                                           
+BurgerShopApplication/
+│── src/
+│   └── burgershopapplication/
+│       ├── HomePage.java
+│       ├── PlaceOrderPage.java
+│       ├── CustomerDetailsPage.java
+│       └── ...
+│── README.md
+
+🎯 Learning Outcomes
+
+- Gained hands-on experience with Java Swing GUI
+- Practiced OOP concepts in Java
+- Learned event-driven programming
+- Worked with NetBeans IDE for GUI design
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+📜 License
+
+This project is licensed under the MIT License.
